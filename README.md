@@ -17,3 +17,9 @@ This project uses Selenium WebDriver with Node.js to interact with the Guest Reg
 
 ## Overview
 This project automates the submission of a registration form for the Guest Registration Form. The automation script fills out required fields, submits the form, and verifies the success of the registration process.
+
+## Key Features
+- **Automated Form Submission**:Navigate to the registration form URL and fill out required fields programmatically.
+- **Field Inputs**:Inputs values for Firstname, Lastname, UserEmail, Gender, Date of Birth, Nationality, Phone, Country (Bangladesh), and agrees to the Terms & Conditions.
+- **Success Message Verification**:he script waits for and verifies the appearance of the success message indicating that registration was successful.
+- **Logging**: Console logs indicate whether the form submission was successful or if any errors occurred during the process.
