@@ -14,3 +14,6 @@ This project uses Selenium WebDriver with Node.js to interact with the Guest Reg
    ```bash
    git clone https://github.com/yourusername/webform-automation.git
    cd webform-automation
+
+## Overview
+This project automates the submission of a registration form for the Guest Registration Form. The automation script fills out required fields, submits the form, and verifies the success of the registration process.
